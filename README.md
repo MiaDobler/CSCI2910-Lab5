@@ -16,5 +16,5 @@ Issue #2 - Implementing a user-menu
 
 
 
-I tried coding it like I do in C#, with a while-loop displaying options and and a switch statement carrying out when the relevant code depending on user input.
+I tried coding it like I do in C#, with a while-loop displaying options and and a switch statement carrying out the relevant code depending on user input.
 I found out switch statements don't quite work in python, and when I looked around further I found the match method. Tried to implement it but when I read some more, I found that there's a menu method in python, which is what I ended up choosing to implement.
