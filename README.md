@@ -8,6 +8,9 @@ Issue #1 - API Access when using a key
 
 tried different methods, had some issues with the headers but fixed it. Also realized that the access key had to include the word 'Bearer' before the given key to work properly.
 
+
+
+
 Issue #2 - Implementing a user-menu
 
 
