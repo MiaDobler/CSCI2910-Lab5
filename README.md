@@ -2,5 +2,4 @@
 API Implementation using The One API (https://the-one-api.dev/)
 
 Issue #1
-
-  API Access when using a key
+API Access when using a key
